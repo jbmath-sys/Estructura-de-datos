@@ -1,0 +1,1 @@
+El método Selection Sort recorre la lista varias veces, y en cada vuelta encuentra el elemento más pequeño (o grande) y lo coloca en su posición correcta. Es como buscar al más bajito del grupo y mandarlo al frente. Es fácil de entender pero no muy rápido con listas grandes.
