@@ -1,0 +1,1 @@
+Bucket Sort divide los datos en “cubetas” (grupos) según su valor, ordena cada cubeta por separado (a veces con otro algoritmo como Insertion Sort) y luego las junta. Es útil con datos uniformemente distribuidos entre 0 y 1.
