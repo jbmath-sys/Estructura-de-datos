@@ -1,1 +1,1 @@
-
+Counting Sort cuenta cuántas veces aparece cada valor (sólo sirve para números enteros pequeños o con rango conocido). Luego reconstruye la lista ordenada según esas cantidades. Es muy rápido, pero no funciona con decimales o negativos.
