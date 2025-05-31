@@ -1,0 +1,1 @@
+El algoritmo Quick Sort elige un elemento llamado pivote, y divide la lista en dos partes: menores y mayores al pivote. Luego ordena cada parte. Es muy rápido en la mayoría de los casos y se usa bastante en la práctica.
