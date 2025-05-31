@@ -1,1 +1,1 @@
-
+Heap Sort convierte la lista en una estructura llamada “montón” (heap), donde siempre se puede sacar el mayor (o menor) elemento rápidamente. Luego lo va sacando y formando la lista ordenada. Es eficiente y no usa mucha memoria adicional.
